@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["?help","gooo"];
+const statusMessages = ["✨?help","🕹️/script-executors"];
 
 
 let currentIndex = 0;
