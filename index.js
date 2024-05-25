@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["✨?help","🕹️/script-executors"];
+const statusMessages = ["✨?help","🕹️hiii"];
 
 
 let currentIndex = 0;
@@ -98,7 +98,7 @@ client.once('ready', () => {
 
   setInterval(() => {
     updateStatusAndSendMessages();
-  }, 100);
+  }, 10000);
 });
 
 login();
