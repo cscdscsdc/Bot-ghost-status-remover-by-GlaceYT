@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["✨?help","🕹️/script-executors"];
+const statusMessages = ["✨ ?help","🤖 /script-executors","📌 discord.gg/framex"];
 
 
 let currentIndex = 0;
